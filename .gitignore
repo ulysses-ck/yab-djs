@@ -1,0 +1,8 @@
+# dependencies
+/node_modules
+
+# keys
+.env
+
+# discord bot
+/config.json
