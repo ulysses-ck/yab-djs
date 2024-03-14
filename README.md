@@ -20,7 +20,7 @@ npm i
 ```
 - Run the project
 ```sh
-node .\src\index.js
+npm run dev
 ```
 
 # Objectives
